@@ -14,6 +14,8 @@ setup(
     author_email = 'Kyle.Wright@twdb.texas.gov',
     url = 'https://github.com/wrightky/CoastalTXProj',
     packages = find_packages(),
+    package_data = {'coastx':['transform_grid.nc']},
+    include_package_data = True,
     keywords='Texas coastal geotransform reference frame',
     classifiers = [
         'Programming Language :: Python',
