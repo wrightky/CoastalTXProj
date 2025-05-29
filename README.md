@@ -26,7 +26,7 @@ Note that any coordinates outside of the reference zone (either too far from the
 The below example shows a coarsened version of [Pekel et al.'s water frequency map](https://doi.org/10.1038/nature20584) for Texas reprojected into the `coastx` reference frame.
 
 <div class="nav3" style="width:800px;">
-    <img src="https://raw.githubusercontent.com/wrightky/CoastalTXProj/main/coasts_proj.png" alt="Image" width="100%"></a>
+    <img src="https://github.com/wrightky/CoastalTXProj/blob/main/coastx_proj.png?raw=true" alt="Image" width="100%"></a>
 </div>
 
 ## Contributing
